@@ -1,5 +1,5 @@
-# GitOps Foundations
-This is the repository for the LinkedIn Learning course GitOps Foundations. The full course is available from [LinkedIn Learning][lil-course-url].
+# GitOps Foundations 
+THIS IS THE REPOSITORY FOR THE LinkedIn Learning course GitOps Foundations. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![GitOps Foundations][lil-thumbnail-url] 
 
